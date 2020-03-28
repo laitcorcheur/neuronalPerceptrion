@@ -3,7 +3,8 @@ This is not an instruction file nor a howto, just a memo explaining few thing
 ### Activation function
 Here are the four most used activation function  
 
-![function](./4function.png)
+![function](./src/edu/packt/neuralnet/4function.png)
+
 
 ### Perceptron algorithm
 Let's build a basic warning system based in AND logic  
